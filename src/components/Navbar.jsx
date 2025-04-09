@@ -11,7 +11,7 @@ const Navbar = () => {
 				</div>
 				<div>
 					<a
-						href="https://github.com/Avijit07x?tab=repositories"
+						href="https://github.com/Anni-07"
 						target="_blank"
 					>
 						<button className="flex items-center gap-1 text-white bg-green-500 rounded-full px-2 py-1 border border-white">
